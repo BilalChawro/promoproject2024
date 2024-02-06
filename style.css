@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
+
+body {
+	background-image: url("Wake.png");
+	background-size: 1500px 3000px;
+	color:white;
+}
+
+#head2 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+#head1 {
+	color: red;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+
+.organizer{
+	font-size: 20px;
+	text-align: center;
+	display: inline-block;
+	width: 400px;
+	height: 500px;
+	font-family: monospace;
+	margin-left: 200px;
+}
+
+.img1{
+	margin-left: 100px;
+	float: left;
+}
+
+
+.divider{
+	height: 500px;
+}
+
+.center{
+	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
+
+.divider2{
+	height: 780px;
+}
+
+#head3{
+	font-family: Arial Black, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 150px;
+	color: lightgray;
+}
+
+.divider3{
+	height: 170px;
+}
